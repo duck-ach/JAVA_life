@@ -1,0 +1,14 @@
+package ex01.object;
+
+public class Ex02_RefactoringObject {
+	
+	public static void sum(int left, int right) {
+		System.out.println(left + right);
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package ex01.object;
+
+public class Ex02_RefactoringObject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

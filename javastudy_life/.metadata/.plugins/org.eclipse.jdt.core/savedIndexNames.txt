@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/Duck_ach/Desktop/java/javastudy_life/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1554368046.index
+3728355240.index
